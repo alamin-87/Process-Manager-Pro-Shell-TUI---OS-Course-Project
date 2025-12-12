@@ -33,7 +33,7 @@ Install recommended tools:
 sudo apt update
 sudo apt install -y dialog lm-sensors sysstat fzf
 sudo sensors-detect --auto   # run once to initialize sensors
-
+```
 ## Author & Links
 
 - Personal Portfolio: https://personalportfolioalamin.netlify.app/
